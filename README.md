@@ -87,7 +87,6 @@ TrainingArguments(
 ## 🗂️ Project Structure
 ```
 emotion_classifier.ipynb     # Training pipeline (run on Google Colab)
-emotion_dashboard.py         # Streamlit dashboard
 requirements.txt
 metrics/
   results.json               # All metrics exported from training

@@ -8,7 +8,7 @@ A deep learning project that fine-tunes and compares three state-of-the-art tran
 
 Understanding human emotions from text is one of the most valuable challenges in Natural Language Processing. Applications range from **mental health monitoring** and therapeutic support tools, to customer sentiment analysis and human-computer interaction.
 
-This project fine-tunes three transformer models to classify text into six emotions — **sadness, joy, love, anger, fear and surprise** — and systematically compares their performance, efficiency, and real-world trade-offs.
+This project fine-tunes three transformer models to classify text into six emotions [**sadness, joy, love, anger, fear and surprise**] and systematically compares their performance, efficiency, and real-world trade-offs.
 
 ---
 

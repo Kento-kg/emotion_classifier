@@ -1,6 +1,6 @@
 # 🧠 Emotion Classifier — BERT vs DistilBERT vs RoBERTa
 
-A deep learning project that fine-tunes and compares three state-of-the-art transformer models for **text-based emotion classification**, built as part of a Data Science portfolio at the Universitat Politècnica de València (UPV).
+A deep learning project that fine-tunes and compares three state-of-the-art transformer models for **text-based emotion classification**.
 
 ---
 
